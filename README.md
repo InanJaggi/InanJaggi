@@ -18,8 +18,6 @@ Four deployments for one fictional manufacturer, Corvane Industrial, built on sy
 | [spares-forecast-replenishment](https://github.com/InanJaggi/spares-forecast-replenishment) | Weekly forecast-to-order pipeline for 120 SKU-DC series with statsforecast and OR-Tools CP-SAT | 22% lower forecast error; 40% less inventory at a 95% fill rate (simulated) |
 | [campus-resource-hub](https://github.com/InanJaggi/campus-resource-hub) | Team capstone I led: Flask booking platform with conflict detection, approvals, waitlist and a Gemini assistant | Team of 4, Kelley School of Business |
 
-[FieldCraft AI](https://inanjaggi.vercel.app/projects/fieldcraft-ai), my governed agentic operations platform, is private. The case study on my site covers how it works and how it's tested.
-
 ### How I work
 
 1. **Embed.** Sit with the operators and learn the job as it is done, not as the SOP says.
